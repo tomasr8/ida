@@ -39,11 +39,6 @@ It might be possible to 3D print the case, but the screw threads might make it d
 
 # Build guide
 
-| a | b |
-|---|---|
-| **Step 1**: Solder the reset switch and the diode | <img src="images/guide/1.jpg" width="75%" /> |
-| **Step 2**: Solder the pin headers | <img src="images/guide/2.jpg" width="75%" /> |
-
 **Step 1**: Solder the reset switch and the diode:
 
 ![](images/guide/1.jpg)
