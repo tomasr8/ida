@@ -1,10 +1,15 @@
 
 # Ida - 3-key macropad
 
-![](images/1.jpg)
-![](images/2.jpg)
-![](images/3.jpg)
-![](images/4.jpg)
+<p align="middle">
+  <img src="images/1.jpg" width="49%" />
+  <img src="images/2.jpg" width="49%" />
+</p>
+
+<p align="middle">
+  <img src="images/3.jpg" width="49%" />
+  <img src="images/4.jpg" width="49%" />
+</p>
 
 # Bill of Materials
 
