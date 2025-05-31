@@ -20,14 +20,32 @@
 - **3x** Keyboard switch
 - **1x** 2u stabilizer
 - **4x** 8mm rubber feet
+- **3x** M2.5 screws
 - Steady hands
 
 # Getting the parts made
 
-- For the PCB, there is a Kicad project included in the repo in [kicad](kicad/). You can simply upload the gerbers to something like JLCPCB.
-- The case is made up of two ([top](top.stl), [bottom](bottom.stl), [threads](drawing.pdf)) parts which are CNC'd out of Aluminium (but you can also 3D print them). I used JLCPCB for this too.
+
+## PCB 
+
+The gerbers are included in the repo in the [kicad](kicad/) directory. You can simply upload the gerbers to a service like JLCPCB.
+
+Not that the entire Kicad project is included so you can also regenerate the gerbers with different settings if needed or adjust the PCB.
+
+## Case
+
+The case was CNC'd out of aluminium (again by JLCPCB). The case is made up of two ([top](top.stl), [bottom](bottom.stl)) parts.
+
+The two parts are held together using 3 M2.5 screws. There is also a [drawing](drawing.pdf) showing the exact placement of the threads.
+
+It might be possible to 3D print the case, but the screw threads might make it difficult.
 
 # Build guide
+
+| a | b |
+|---|---|
+| **Step 1**: Solder the reset switch and the diode | ![](images/guide/1.jpg) |
+| 3 | 4 |
 
 **Step 1**: Solder the reset switch and the diode:
 
@@ -66,6 +84,7 @@
 
 # Schematic
 
-![](/images/schematic.png)
-
-![](/images/pcb.png)
+<p align="middle">
+  <img src="images/schematic.png" width="49%" />
+  <img src="images/pcb.png" width="49%" />
+</p>
