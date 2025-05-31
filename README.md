@@ -4,9 +4,6 @@
 <p align="middle">
   <img src="images/1.jpg" width="49%" />
   <img src="images/2.jpg" width="49%" />
-</p>
-
-<p align="middle">
   <img src="images/3.jpg" width="49%" />
   <img src="images/4.jpg" width="49%" />
 </p>
@@ -44,8 +41,8 @@ It might be possible to 3D print the case, but the screw threads might make it d
 
 | a | b |
 |---|---|
-| **Step 1**: Solder the reset switch and the diode | ![](images/guide/1.jpg) |
-| 3 | 4 |
+| **Step 1**: Solder the reset switch and the diode | <img src="images/guide/1.jpg" width="75%" /> |
+| **Step 2**: Solder the pin headers | <img src="images/guide/2.jpg" width="75%" /> |
 
 **Step 1**: Solder the reset switch and the diode:
 
