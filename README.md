@@ -8,6 +8,14 @@
   <img src="images/4.jpg" width="49%" />
 </p>
 
+# Table of Contents
+
+- [Bill of Materials](#bill-of-materials)
+- [Getting the parts made](#getting-the-parts-made)
+- [Build guide](#build-guide)
+- [Programming](#programming)
+- [Schematics](#schematics)
+
 # Bill of Materials
 
 - **2x** 12x1 pin header
@@ -21,7 +29,6 @@
 - Steady hands
 
 # Getting the parts made
-
 
 ## PCB 
 
@@ -74,7 +81,12 @@ It might be possible to 3D print the case, but the screw threads might make it d
 
 ![](images/1.jpg)
 
-# Schematic
+# Programming
+
+I use QMK for programming keyboard,
+check the schematic below to see which pins you need to define ;)
+
+# Schematics
 
 <p align="middle">
   <img src="images/schematic.png" width="49%" />
