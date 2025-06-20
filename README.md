@@ -83,7 +83,7 @@ It might be possible to 3D print the case, but the screw threads might make it d
 
 # Programming
 
-I use QMK for programming keyboard,
+I use QMK for programming the macropad,
 check the schematic below to see which pins you need to define ;)
 
 # Schematics
