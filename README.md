@@ -83,8 +83,8 @@ It might be possible to 3D print the case, but the screw threads might make it d
 
 # Programming
 
-I use QMK for programming the macropad,
-check the schematic below to see which pins you need to define ;)
+I use QMK for programming the macropad. You can use my fork of QMK to change the keymap:
+https://github.com/tomasr8/qmk_firmware/tree/ida/keyboards/ida
 
 # Schematics
 
